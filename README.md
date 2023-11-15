@@ -8,7 +8,7 @@
 Soy un desarrollador fullstack con tendencia al Front End, apasionado por la creación de aplicaciones web. Tengo 27 años y soy argentino.
 
 ## Qué hago?
-Mi enfoque principal es trabajar en el desarrollo de aplicaciones web utilizando tecnologías como React, Redux, HTML, CSS, Mui, Chakra UI, Bootstrap y Tailwind. Me encanta crear interfaces atractivas y funcionales que brinden una excelente experiencia de usuario.
+Mi enfoque principal es trabajar en el desarrollo de aplicaciones web utilizando tecnologías como React, Redux, Mui, Chakra UI, Bootstrap y Tailwind. Me encanta crear interfaces atractivas y funcionales que brinden una excelente experiencia de usuario.
 
 También tengo experiencia en el desarrollo de servidores utilizando Node.js, Express y bases de datos como PostgreSQL. He trabajado con ORM's como Sequelize para interactuar con bases de datos de manera eficiente.
 
@@ -16,7 +16,7 @@ También tengo experiencia en el desarrollo de servidores utilizando Node.js, Ex
 Disfruto programar y siempre estoy buscando oportunidades para aprender y mejorar mis habilidades. Estoy abierto a colaboraciones en proyectos interesantes y desafiantes. Siempre estoy dispuesto a enfrentar nuevos desafíos y encontrar soluciones creativas a los problemas.
 
 Habilidades blandas:
-- Buen compañero
+- Predisposición
 - Positivismo
 - Compromiso
 - Trabajo en equipo
@@ -40,7 +40,7 @@ Si estás interesado en trabajar juntos o tienes alguna pregunta, no dudes en co
 - Sequelize 🗃️
 - PostgreSQL 🐘
 
-¡Gracias por visitar mi perfil! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-perfil-de-linkedin) para más detalles o colaboraciones.
+¡Gracias por visitar mi perfil! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/gastongarciajuri) para más detalles o colaboraciones.
 
 ---
 
@@ -83,5 +83,5 @@ If you're interested in working together or have any questions, feel free to con
 - PostgreSQL 🐘
 
 
-Thanks for visiting my profile! You can reach me on [LinkedIn](https://www.linkedin.com/in/tu-perfil-de-linkedin) for more details or collaborations.
+Thanks for visiting my profile! You can reach me on [LinkedIn](https://www.linkedin.com/in/gastongarciajuri) for more details or collaborations.
 
