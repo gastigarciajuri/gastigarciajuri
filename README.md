@@ -36,7 +36,7 @@ Soy un **Full Stack Developer** con formación en diseño web. Me apasiona la re
 
 
 **Mayo 2023 - Junio 2023** | Proyecto final en "Soy Henry"
-#### [Serendipia](https://https://pfbooks.onrender.com)
+#### [Serendipia]([https://https://pfbooks.onrender.com](https://github.com/pfbooks/pfbooks))
 - Desarrollo de una app web tipo e-commerce para la compra y venta de libros digitales.
 - Funcionalidades: autenticación interna y externa, filtrados, ordenamientos, panel de administrador, sistema de notificaciones por email, pagos con Mercado Pago, carrito de compras, sección de reviews.
 - Tecnologías:
