@@ -64,10 +64,11 @@ Soy un **Full Stack Developer** con formación en diseño web. Me apasiona la re
 
 ### 📫 Contacto
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gastongarciajuri)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastongarciajuri@gmail.com)
+
 - 📍 San Rafael, Mendoza, Argentina
-- 📧 [gastongarciajuri@gmail.com](mailto:gastongarciajuri@gmail.com)
 - 📞 (+54) 9 2604547542
-- [LinkedIn](https://www.linkedin.com/in/gastongarciajuri)
 - [GitHub](https://github.com/gastigarciajuri)
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
