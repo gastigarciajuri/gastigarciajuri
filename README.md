@@ -1,87 +1,75 @@
-# ¡Hola! 👋 Soy Gastón García Juri
+# Gastón García Juri - Full Stack Developer
 
-[English version](#english-version)
+![Profile Views](https://komarev.com/ghpvc/?username=gastigarciajuri&style=flat-square)
 
-## Español
+## 👋 ¡Hola! Soy Gastón García Juri
 
-## Quién soy?
-Soy un desarrollador fullstack con tendencia al Front End, apasionado por la creación de aplicaciones web. Tengo 27 años y soy argentino.
+Soy un **Full Stack Developer** con formación en diseño web. Me apasiona la resolución de problemas y el trabajo en equipo, y tengo una fuerte orientación hacia la autonomía y la comunicación efectiva. He trabajado con diversas tecnologías y metodologías ágiles, y me gusta mantenerme siempre actualizado con las últimas tendencias en el desarrollo de software.
 
-## Qué hago?
-Mi enfoque principal es trabajar en el desarrollo de aplicaciones web utilizando tecnologías como React, Redux, Mui, Chakra UI, Bootstrap y Tailwind. Me encanta crear interfaces atractivas y funcionales que brinden una excelente experiencia de usuario.
+### 🛠️ Tecnologías y Herramientas
 
-También tengo experiencia en el desarrollo de servidores utilizando Node.js, Express y bases de datos como PostgreSQL. He trabajado con ORM's como Sequelize para interactuar con bases de datos de manera eficiente.
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=fff&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff&style=flat)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=fff&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrumalliance&logoColor=fff&style=flat)
 
-## A dónde me dirijo?
-Disfruto programar y siempre estoy buscando oportunidades para aprender y mejorar mis habilidades. Estoy abierto a colaboraciones en proyectos interesantes y desafiantes. Siempre estoy dispuesto a enfrentar nuevos desafíos y encontrar soluciones creativas a los problemas.
+### 📚 Proyectos Destacados
 
-Habilidades blandas:
-- Predisposición
-- Positivismo
-- Compromiso
-- Trabajo en equipo
+#### [PI-COUNTRIES](https://github.com/gastigarciajuri/PI-COUNTRIES)
+**Julio 2022 - Agosto 2022** | Experiencia académica en Henry Bootcamp
 
-Metodologías ágiles:
-- SCRUM
+- Diseño y desarrollo de una aplicación que consulta una API de todos los países del mundo.
+- Funcionalidades: búsquedas, filtrados, ordenamientos, creación de actividades turísticas.
+- Tecnologías: 
+  - **Frontend:** React, CSS (sin librerías)
+  - **Backend:** Node.js, Express.js
+  - **Base de Datos:** PostgreSQL y Sequelize
 
-Si estás interesado en trabajar juntos o tienes alguna pregunta, no dudes en contactarme. ¡Estoy emocionado de ser parte de la comunidad de desarrolladores y compartir conocimientos!
+#### [Serendipia](https://front-serendipia.vercel.app)
+**Mayo 2023 - Junio 2023** | Proyecto final en "Soy Henry"
 
-## Tecnologías y herramientas
-- React ⚛️
-- Redux ⚡️
-- HTML 🌐
-- CSS 🎨
-- Material-UI (Mui) 🖌️
-- Chakra UI 💠
-- Bootstrap 🅱️
-- Tailwind 🌬️
-- Node.js 🟢
-- Express 🚀
-- Sequelize 🗃️
-- PostgreSQL 🐘
+- Desarrollo de una app web tipo e-commerce para la compra y venta de libros digitales.
+- Funcionalidades: autenticación interna y externa, filtrados, ordenamientos, panel de administrador, sistema de notificaciones por email, pagos con Mercado Pago, carrito de compras, sección de reviews.
+- Tecnologías:
+  - **Frontend:** React, Redux, CSS Modules, Auth0
+  - **Backend:** Node.js, Express.js, Mercado Pago, Google Mail
+  - **Base de Datos:** PostgreSQL, Sequelize, Firebase
+  - **Deploy:** Vercel
 
-¡Gracias por visitar mi perfil! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/gastongarciajuri) para más detalles o colaboraciones.
+### 🎓 Educación
 
----
+- **Full Stack Web Developer**, Henry Bootcamp (2022) - 700 horas teórico-prácticas
+- **Ingeniería en Informática**, Universidad de Mendoza (2014-2015)
+- **Tecnicatura de Seguridad e Higiene en el trabajo** (tesis incompleta, 2015-2017)
 
-## English Version
+### 📜 Cursos Complementarios
 
-## Who am I?
-I'm a fullstack developer with a focus on Front End, passionate about creating web applications. I'm 27 years old and I'm from Argentina.
+- Desarrollador web inicial, UTN BA (2021)
+- Fundamentos de la Programación, UTN BA (2021)
+- JavaScript, UTN Re (Resistencia) (2022)
 
-## What I do?
-My main focus is working on web development using technologies like React, Redux, HTML, CSS, Mui, Chakra UI, Bootstrap, and Tailwind. I love creating attractive and functional interfaces that provide an excellent user experience.
+### 🌐 Idiomas
 
-I also have experience in server-side development using Node.js, Express, and databases like PostgreSQL. I've worked with ORM's like Sequelize to efficiently interact with databases.
+- **Inglés:** First Certificate de Cambridge - Nivel B2 (2013)
+- **EFSET Certificate:** 66/100 pts, Nivel C1 (Advanced) (2023) [Certificado](https://www.efset.org/cert/Ganm26)
 
-## Where am I headed?
-I enjoy programming and I'm always looking for opportunities to learn and improve my skills. I'm open to collaborations on interesting and challenging projects. I'm always ready to take on new challenges and find creative solutions to problems.
+### 📫 Contacto
 
-Soft skills:
-- Good teammate
-- Positivity
-- Commitment
-- Teamwork
+- 📍 San Rafael, Mendoza, Argentina
+- 📧 [gastongarciajuri@gmail.com](mailto:gastongarciajuri@gmail.com)
+- 📞 (+54) 9 2604547542
+- [LinkedIn](https://www.linkedin.com/in/gastongarciajuri)
+- [GitHub](https://github.com/gastigarciajuri)
 
-Agile methodologies:
-- SCRUM
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-If you're interested in working together or have any questions, feel free to contact me. I'm excited to be part of the developer community and share knowledge!
-
-## Technologies and Tools
-- React ⚛️
-- Redux ⚡️
-- HTML 🌐
-- CSS 🎨
-- Material-UI (Mui) 🖌️
-- Chakra UI 💠
-- Bootstrap 🅱️
-- Tailwind 🌬️
-- Node.js 🟢
-- Express 🚀
-- Sequelize 🗃️
-- PostgreSQL 🐘
-
-
-Thanks for visiting my profile! You can reach me on [LinkedIn](https://www.linkedin.com/in/gastongarciajuri) for more details or collaborations.
 
