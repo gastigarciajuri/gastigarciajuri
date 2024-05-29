@@ -27,7 +27,6 @@ Soy un **Full Stack Developer** con formación en diseño web. Me apasiona la re
 
 **Julio 2022 - Agosto 2022** | Experiencia académica en Henry Bootcamp
 #### [PI-COUNTRIES](https://github.com/gastigarciajuri/PI-COUNTRIES)
-
 - Diseño y desarrollo de una aplicación que consulta una API de todos los países del mundo.
 - Funcionalidades: búsquedas, filtrados, ordenamientos, creación de actividades turísticas.
 - Tecnologías: 
@@ -38,7 +37,6 @@ Soy un **Full Stack Developer** con formación en diseño web. Me apasiona la re
 
 **Mayo 2023 - Junio 2023** | Proyecto final en "Soy Henry"
 #### [Serendipia](https://front-serendipia.vercel.app)
-
 - Desarrollo de una app web tipo e-commerce para la compra y venta de libros digitales.
 - Funcionalidades: autenticación interna y externa, filtrados, ordenamientos, panel de administrador, sistema de notificaciones por email, pagos con Mercado Pago, carrito de compras, sección de reviews.
 - Tecnologías:
