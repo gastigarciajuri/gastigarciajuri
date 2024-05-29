@@ -69,7 +69,8 @@ Soy un **Full Stack Developer** con formación en diseño web. Me apasiona la re
 
 - 📍 San Rafael, Mendoza, Argentina
 - 📞 (+54) 9 2604547542
-- [GitHub](https://github.com/gastigarciajuri)
+- [![GitHub(https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gastigarciajuri)
+
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
