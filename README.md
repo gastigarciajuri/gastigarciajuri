@@ -25,25 +25,24 @@ Soy un **Full Stack Developer** con formación en diseño web. Me apasiona la re
 ### 📚 Proyectos Destacados
 
 
-#### [PI-COUNTRIES](https://github.com/gastigarciajuri/PI-COUNTRIES)_____________
-**Julio 2022 - Agosto 2022** | Experiencia académica en Henry Bootcamp
-- Diseño y desarrollo de una aplicación que consulta una API de todos los países del mundo.
-- Funcionalidades: búsquedas, filtrados, ordenamientos, creación de actividades turísticas.
-- Tecnologías: 
-  - **Frontend:** React, CSS (sin librerías)
-  - **Backend:** Node.js, Express.js
-  - **Base de Datos:** PostgreSQL y Sequelize
+> #### [PI-COUNTRIES](https://github.com/gastigarciajuri/PI-COUNTRIES)
+> **Julio 2022 - Agosto 2022** | Experiencia académica en Henry Bootcamp
+> - Diseño y desarrollo de una aplicación que consulta una API de todos los países del mundo.
+> - Funcionalidades: búsquedas, filtrados, ordenamientos, creación de actividades turísticas.
+> - Tecnologías: 
+>   - **Frontend:** React, CSS (sin librerías)
+>   - **Backend:** Node.js, Express.js
+>   - **Base de Datos:** PostgreSQL y Sequelize
 
-
-#### [SERENDIPIA](https://github.com/pfbooks/pfbooks)_____________
-**Mayo 2023 - Junio 2023** | Proyecto final en "Soy Henry"
-- Desarrollo de una app web tipo e-commerce para la compra y venta de libros digitales.
-- Funcionalidades: autenticación interna y externa, filtrados, ordenamientos, panel de administrador, sistema de notificaciones por email, pagos con Mercado Pago, carrito de compras, sección de reviews.
-- Tecnologías:
-  - **Frontend:** React, Redux, CSS Modules, Auth0
-  - **Backend:** Node.js, Express.js, Mercado Pago, Google Mail
-  - **Base de Datos:** PostgreSQL, Sequelize, Firebase
-  - **Deploy:** Vercel
+> #### [SERENDIPIA](https://github.com/pfbooks/pfbooks)
+> **Mayo 2023 - Junio 2023** | Proyecto final en "Soy Henry"
+> - Desarrollo de una app web tipo e-commerce para la compra y venta de libros digitales.
+> - Funcionalidades: autenticación interna y externa, filtrados, ordenamientos, panel de administrador, sistema de notificaciones por email, pagos con Mercado Pago, carrito de compras, sección de reviews.
+> - Tecnologías:
+>   - **Frontend:** React, Redux, CSS Modules, Auth0
+>   - **Backend:** Node.js, Express.js, Google Mail
+>   - **Base de Datos:** PostgreSQL, Sequelize, Firebase
+>   - **Deploy:** Vercel
 
 ### 🎓 Educación
 
