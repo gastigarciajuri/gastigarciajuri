@@ -35,7 +35,7 @@ Soy un **Full Stack Developer** con formación en diseño web. Me apasiona la re
   - **Base de Datos:** PostgreSQL y Sequelize
 
 
-#### [Serendipia](https://github.com/pfbooks/pfbooks)
+#### [SERENDIPIA](https://github.com/pfbooks/pfbooks)
 **Mayo 2023 - Junio 2023** | Proyecto final en "Soy Henry"
 - Desarrollo de una app web tipo e-commerce para la compra y venta de libros digitales.
 - Funcionalidades: autenticación interna y externa, filtrados, ordenamientos, panel de administrador, sistema de notificaciones por email, pagos con Mercado Pago, carrito de compras, sección de reviews.
