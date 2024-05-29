@@ -40,7 +40,7 @@ Soy un **Full Stack Developer** con formación en diseño web. Me apasiona la re
 > - Funcionalidades: autenticación interna y externa, filtrados, ordenamientos, panel de administrador, sistema de notificaciones por email, pagos con Mercado Pago, carrito de compras, sección de reviews.
 > - Tecnologías:
 >   - **Frontend:** React, Redux, CSS Modules, Auth0
->   - **Backend:** Node.js, Express.js, Google Mail
+>   - **Backend:** Node.js, Express.js
 >   - **Base de Datos:** PostgreSQL, Sequelize, Firebase
 >   - **Deploy:** Vercel
 
