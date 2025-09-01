@@ -47,7 +47,7 @@ Soy un **Full Stack Developer** con formación en diseño web. Me apasiona la re
 ### 🎓 Educación
 
 - **Full Stack Web Developer**, Henry Bootcamp (2022) - 700 horas teórico-prácticas
-- **Ingeniería en Informática**, Universidad de Mendoza (2014-2015)
+- **Ingeniería en Informática**, Universidad de Mendoza  (2014-2015 incompleta)
 - **Tecnicatura de Seguridad e Higiene en el trabajo** (tesis incompleta, 2015-2017)
 
 ### 📜 Cursos Complementarios
